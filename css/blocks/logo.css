@@ -1,0 +1,10 @@
+.logo {
+	display: flex;
+	width: 98px;
+	height: 42px;
+	margin-right: 70px;
+}
+
+.logo__service {
+  margin-bottom: 121px;
+}

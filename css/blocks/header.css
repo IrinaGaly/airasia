@@ -1,0 +1,16 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+}
+.header__col {
+	margin-top: 30px;
+}
+.header__col_row {
+	display: flex;
+	flex-direction: row;
+}
+.header__col-align-right {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}

@@ -1,0 +1,27 @@
+
+.open-asia {
+	margin-bottom: 185px;
+	margin-top: 72px;
+	
+}
+.open-asia__content {
+	width: 48%;
+}
+.open-asia__title {
+	font-size: 72px;
+	font-weight: bold;
+	line-height: 1.2;
+	margin-bottom: 26px;
+}
+.open-asia__description {
+	font-size: 18px;
+	color: white;
+	margin-bottom: 35px;
+}
+.hero__cantainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 541px;
+}
+

@@ -1,0 +1,76 @@
+.btn {
+	border-radius: 26px;
+	padding: 18px 35px;
+	text-decoration: none;
+}
+.open-asia__btn {
+	background: #d21d16;
+	border: 0px;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.open-asia__btn:hover {
+	background: #ba0700;
+}
+.offer__btn {
+	background: white;
+	color: red;
+	font-size: 14px;
+	border-color: #EDA5A2;
+	border-radius: 26px;
+	padding: 17px 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.offer__btn:hover {
+	background: #D21D16;
+	color: white;
+}
+.about__btn {
+	background: #d21d16;
+	border: 0px;
+	border-radius: 26px;
+	padding: 18px 30px;
+	font-size: 14px;
+	color: white;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+.about__btn:hover {
+	background: #ba0700;
+}
+.btn__service {
+  background: white;
+	border-color: #d21d16;
+	color: #d21d16;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.btn__service:hover {
+  background: #d21d16;
+	color: white ;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.inner-section-bg_gray {
+  background: #F4F5F5;
+}
+.btn__color_grey {
+  background:#2B2B2B;
+	border: 0px;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.btn__form {
+  margin-right: 20px;
+}
+.btn__form:last-child {
+  margin-right: 0;
+}
+.form__btns {
+	display: flex;
+	justify-content: flex-end;
+}

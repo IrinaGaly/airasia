@@ -1,0 +1,30 @@
+.separator {
+  background: url(/images/bg/middleline.jpg);
+  min-height: 360px;
+  display: flex; 
+}
+.separator__content {
+  display: flex;
+  justify-content: space-around;
+  
+}
+.separator__content_title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  
+}
+.separator__content_right {
+  display: flex;
+  align-items: flex-end;
+}
+.separator__title {
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.1;
+  width: 588px;
+  white-space: pre-wrap;
+}

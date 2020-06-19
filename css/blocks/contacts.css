@@ -1,0 +1,83 @@
+.contacts__up {
+	text-decoration: none;
+	font-style: normal;
+	margin: 4px;
+	text-align: right;
+}
+.contacts__phone {
+	font-size: 26px;
+	text-decoration: none;
+	margin-bottom: 6px;
+}
+.contacts__dropdown-title {
+	font-size: 13px;
+  text-decoration: underline; 
+}
+.contacts__phone {
+	font-size: 26px;
+	text-decoration: none;
+	margin-bottom: 4px;
+}
+.contacts__down {
+	text-decoration: none;
+	font-style: normal;
+	text-align: right;
+}
+.contacts__free-call {
+	font-size: 11px;
+	margin-bottom: 3px;
+}
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown:hover .dropdown__menu {
+	left: -55px;
+	opacity: 1; 
+}
+.dropdown__menu {
+	position: absolute;
+	background: #fff;
+	border: 1px solid white;
+	border-radius: 4px;
+	padding: 10px;
+	width: 154px;
+	top: 100%;
+	color: #1E1F20;
+	font-size: 13px;
+	margin-top: 10px;
+	left: -55px;
+	opacity: 0;
+	transition: opacity .4s;
+	left: -99999px;
+	
+}
+.dropdown__item_bold {
+	font-weight: bold;
+}
+.dropdown__list  { 
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.dropdown__menu::before {
+	content: "";
+	display: block;
+	height: 30px;
+	left: 0;
+	right: 0;
+	top: -29px;
+	position: absolute;
+}
+.dropdown__menu::after {
+	content: "";
+	display: flex;
+	border: 10px solid transparent;
+	border-bottom: 10px solid white;
+	position: absolute;
+	bottom: 100%;
+	right: 44px;
+}
+
+

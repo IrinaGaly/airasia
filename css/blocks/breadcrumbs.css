@@ -1,0 +1,24 @@
+.breadcrumbs {
+  margin-bottom: 27px;
+}
+.breadcrumbs__list {
+  display: flex;
+  align-items: center;
+}
+.breadcrumbs__link {
+  font-size: 14px;
+}
+.breadcrumbs__item {
+  display: flex;
+  align-items: center;
+  margin-right: 3px;
+}
+.breadcrumbs__item_active {
+  text-decoration: none;
+}
+.breadcrumbs__item:after {
+  content: "/";
+}
+.breadcrumbs__item:last-child:after {
+  display: none;
+}
