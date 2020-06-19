@@ -7,7 +7,7 @@
   height: 100%;
   align-items: center;
   justify-content: center;
-  background: url("/images/bg/screen.jpg") center no-repeat;
+  background: url("./../../images/bg/screen.jpg") center no-repeat;
 }
 .welcome__logo {
   width: 279px;
@@ -19,7 +19,7 @@
   align-items: center;
 }
 .welcome__shades {
-  background: url("/images/decor/shades.png") top center no-repeat;
+  background: url("./../../images/decor/shades.png") top center no-repeat;
   width: 591px;
   height: 248px;
 }

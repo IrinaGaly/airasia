@@ -7,10 +7,10 @@
 	width: 489px;
 	height: 503px;
 	border-radius: 6px;
-	background: url("/images/decor/gates.jpg") center center / cover no-repeat;
+	background: url("./images/decor/gates.jpg") center center / cover no-repeat;
 }
 .about__desc {
-	background: url("/images/decor/mountains.jpg") center center / cover no-repeat;
+	background: url("./images/decor/mountains.jpg") center center / cover no-repeat;
 	padding: 75px 98px;
 	max-width: 781px;
 	display: flex;

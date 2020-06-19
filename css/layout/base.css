@@ -38,7 +38,7 @@ body {
   margin: 0 auto;
 }
 .wrapper__main {
-	background: url("/images/bg/hero.jpg") center top no-repeat, url("/images/bg/bottom-pic.jpg") right bottom 100px no-repeat;
+	background: url("./../../images/bg/hero.jpg") center top no-repeat, url("/images/bg/bottom-pic.jpg") right bottom 100px no-repeat;
 }
 a {
 	color: inherit;
