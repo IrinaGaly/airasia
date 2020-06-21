@@ -23,7 +23,7 @@
 	transform: translate(-50%, -50%);
 	width: 36px; 
 	height: 36px;
-	background: url("/images/icons/socials/sprites.png") -66px -66px; 
+	background: url("./../../images/icons/socials/sprites.png") -66px -66px; 
 	transition: .3s;
 }
 .icon__tg:before {
@@ -35,7 +35,7 @@
 	transform: translate(-50%, -50%);
 	width: 36px; 
 	height: 36px;
-	background: url("/images/icons/socials/sprites.png") -10px -66px; 
+	background: url("./../../images/icons/socials/sprites.png") -10px -66px; 
 	opacity: 0;
 	transition: .3s;
 }
@@ -61,7 +61,7 @@
 	transform: translate(-50%, -50%);
 	width: 36px; 
 	height: 36px;
-	background: url("/images/icons/socials/sprites.png") -66px -10px; 
+	background: url("./../../images/icons/socials/sprites.png") -66px -10px; 
 	transition: .3s;
 }
 .icon__vk:before {
@@ -74,7 +74,7 @@
 	width: 36px; 
 	height: 36px;
 	opacity: 0;
-	background: url("/images/icons/socials/sprites.png") -10px -10px; 
+	background: url("./../../images/icons/socials/sprites.png") -10px -10px; 
 	transition: .3s;
 }
 .icon__vk:hover:after {
@@ -99,7 +99,7 @@
 	transform: translate(-50%, -50%);
 	width: 36px; 
 	height: 36px;
-	background: url("/images/icons/socials/sprites.png") -10px -122px; 
+	background: url("./../../images/icons/socials/sprites.png") -10px -122px; 
 	transition: .3s;
 }
 .icon__fb:before{
@@ -112,7 +112,7 @@
 	width: 36px; 
 	height: 36px;
 	opacity: 0;
-	background: url("/images/icons/socials/sprites.png") -66px -122px; 
+	background: url("./../../images/icons/socials/sprites.png") -66px -122px; 
 	transition: .3s;
 }
 .icon__fb:hover:after {
@@ -136,7 +136,7 @@
 	transform: translate(-50%, -50%);
 	width: 36px; 
 	height: 36px;
-	background: url("/images/icons/socials/sprites.png") -122px -66px; 
+	background: url("./../../images/icons/socials/sprites.png") -122px -66px; 
 	transition: .3s;
 }
 .icon__ig:before {
@@ -148,7 +148,7 @@
 	transform: translate(-50%, -50%);
 	width: 36px; 
 	height: 36px;
-	background: url("/images/icons/socials/sprites.png") -122px -10px; 
+	background: url("./../../images/icons/socials/sprites.png") -122px -10px; 
 	transition: .3s;
 }
 .icon__ig:hover:after {
