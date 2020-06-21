@@ -1,6 +1,7 @@
 .footer {
 	margin: 0 auto;
-  width: 1160px;
+	width: 100%;
+	padding: 2% 5%;
 	position: relative;
 	display: flex;
 	flex-shrink: 0;
@@ -10,7 +11,7 @@
 	align-items: center;
 }
 .footer__container_section {
-	height: 152px;
+	/* height: 152px; */
 	margin-top: auto;
 	padding: 40px 0;
 	border-top: 2px solid;
